@@ -30,7 +30,7 @@ body{
 
 
 
-.left-content{
+.left-section{
   /* position: relative; */
   grid-column: span 1;  /*change*/
   background: rgb(3, 3, 88);
